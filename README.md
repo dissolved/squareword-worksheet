@@ -1,0 +1,1 @@
+Silly little script to generate a number of 5 x 5 grid squares. I use them to play squareword.org.
